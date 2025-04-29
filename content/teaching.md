@@ -9,6 +9,8 @@ cascade:
 
 My current teaching portfolio consists of the following courses:
 
+* Difference Equations for Economists
+
 * Differential Equations
 
 * Differential Geometry
